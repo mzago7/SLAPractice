@@ -1,2 +1,2 @@
-# SLAPractice
-specific leaf area prctice repo
+# Specific leaf area pratice repo 
+hving fun 
