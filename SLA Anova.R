@@ -1,0 +1,11 @@
+SLA<-read.csv("Data/SLA_Canadian_Cities.csv")
+library(vegan)
+library(car)
+library(tidyverse)
+glimpse(SLA)
+unique(SLA$City)
+unique(SLA)
+library(vegan)
+library(vegan)
+
+))
